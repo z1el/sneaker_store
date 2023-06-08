@@ -38,9 +38,4 @@ const GOODS = [{
 	name: 'nike air max 720(2020)',
 	price: "39000",
 	imgSrc: 'goods/airmax.png',
-}, {
-	id: 9,
-	name: 'adidas yeezy 350',
-	price: 5000,
-	imgSrc: 'goods/adidas.png',
 }]
