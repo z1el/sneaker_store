@@ -1,2 +1,2 @@
-# sneaker_store
-store
+# MAGAZ
+web-shop
