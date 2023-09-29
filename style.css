@@ -63,7 +63,7 @@ body {
 
 .tab.active {
 	pointer-events: none;
-	color: #ffffff;
+	color: purple;
 }
 
 .tab:hover {
