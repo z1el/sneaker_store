@@ -5,7 +5,7 @@ const GOODS = [{
 	imgSrc:   'goods/inst.png',
 }, {
 	id: 2,
-	name: 'товар отсутствует',
+	name: 'товар имеется просто мне лень его вставлять',
 	price: 0,
 	imgSrc: 'goods/net.png',
 }, {
